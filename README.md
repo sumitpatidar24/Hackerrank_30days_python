@@ -1,1 +1,1 @@
-# Hackerrank_30days_python_array2d
+# Hackerrank_30days_python
